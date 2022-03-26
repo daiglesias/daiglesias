@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daiglesias
+- 👋 Hi, I’m @elcorruptor
 - 👀 I’m interested in art, drawings, muscle men, sugar, animation, and fashion.
 - 🌱 I’m currently learning human anatomy and JavaScript
 - 💞️ I’m looking to collaborate on web design projects
